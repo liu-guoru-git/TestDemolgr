@@ -7,9 +7,10 @@ namespace Test
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
-            Console.WriteLine("add testdemolgr 1"); 
+            Console.WriteLine("add test 1");
+            Console.WriteLine("add testdemolgr 1");   
         }
     }
 }
