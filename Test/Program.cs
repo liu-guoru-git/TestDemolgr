@@ -14,6 +14,8 @@ namespace Test
             Console.WriteLine("Hello4");
             Console.WriteLine("Hello lgr_1");
             Console.WriteLine("Hello lgr_2");
+
+            Console.WriteLine("Hello lgr_kelong 2");
             Console.ReadKey();
         }
     }
