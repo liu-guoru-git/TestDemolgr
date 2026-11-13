@@ -18,7 +18,12 @@ namespace Test
             Console.WriteLine("add test 1");
 
             Console.WriteLine("add testdemolgr 2");
+<<<<<<< HEAD
             Console.WriteLine("add testdemolgr 3");
+=======
+
+            Console.WriteLine("add test 2");
+>>>>>>> 8400b60c56aa87f0c2ffb32ca8ee72975da463a7
             Console.ReadKey();
         }
     }
