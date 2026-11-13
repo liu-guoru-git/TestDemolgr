@@ -12,7 +12,9 @@ namespace Test
             Console.WriteLine("Hello1");
             Console.WriteLine("Hello3");
             Console.WriteLine("Hello4"); 
-            Console.WriteLine("Hello lgr_kelong 2"); 
+            Console.WriteLine("Hello lgr_kelong 2");
+
+            Console.WriteLine("add testdemolgr 1");
             Console.ReadKey();
         }
     }
