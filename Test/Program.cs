@@ -15,6 +15,7 @@ namespace Test
             Console.WriteLine("Hello lgr_kelong 2");
 
             Console.WriteLine("add testdemolgr 1");
+            Console.WriteLine("add test 1");
             Console.ReadKey();
         }
     }
