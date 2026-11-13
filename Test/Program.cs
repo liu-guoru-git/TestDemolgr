@@ -20,6 +20,8 @@ namespace Test
             Console.WriteLine("add testdemolgr 2");
 
             Console.WriteLine("add test 2");
+
+            Console.WriteLine("add test 3");
             Console.ReadKey();
         }
     }
