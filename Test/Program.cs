@@ -13,6 +13,7 @@ namespace Test
             Console.WriteLine("Hello3");
             Console.WriteLine("Hello4");
             Console.WriteLine("Hello lgr_1");
+            Console.WriteLine("Hello lgr_2");
             Console.ReadKey();
         }
     }
