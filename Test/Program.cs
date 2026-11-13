@@ -18,10 +18,10 @@ namespace Test
             Console.WriteLine("add test 1");
 
             Console.WriteLine("add testdemolgr 2");
-
             Console.WriteLine("add test 2");
-
-            Console.WriteLine("add test 3");
+ 
+            Console.WriteLine("add testdemolgr 3");
+            Console.WriteLine("add test 3"); 
             Console.ReadKey();
         }
     }
